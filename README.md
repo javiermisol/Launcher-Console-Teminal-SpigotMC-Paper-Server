@@ -1,7 +1,8 @@
 # Launcher Console Teminal SpigotMC Paper Server
 ** Lanzador ejecutable para iniciar el servidor de Minecraft SpigotMC y PaperMC.
 
-
+![Screenshot](https://github.com/javiermisol/Launcher-Console-Teminal-SpigotMC-Paper-Server/blob/main/run.png)
+![Screenshot](https://github.com/javiermisol/Launcher-Console-Teminal-SpigotMC-Paper-Server/blob/main/run_console.png)
 
 Ejecutables para servidores SpigotMC y PaperMC en Windows 7/8.1/10/11.
 
