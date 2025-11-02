@@ -9,7 +9,7 @@
 
 
 
-* Ejecutables para servidores SpigotMC y PaperMC en Windows 7/8.1/10/11. *
+*Ejecutables para servidores SpigotMC y PaperMC en Windows 7/8.1/10/11. *
 
 ** Cabiar el nommbre de spigot-*.jar paper-*.jar por server.jar **
 
